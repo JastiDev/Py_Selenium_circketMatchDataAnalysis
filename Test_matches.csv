@@ -1,0 +1,862 @@
+match_id,venue,team_1,team_2,match_type,toss_winner,toss_decision,match_winner
+1000851,Western Australia Cricket Association Ground,Australia,South Africa,Test,South Africa,bat,South Africa
+1000853,Bellerive Oval,Australia,South Africa,Test,South Africa,field,South Africa
+1000855,Adelaide Oval,Australia,South Africa,Test,South Africa,bat,Australia
+1000881,"Brisbane Cricket Ground, Woolloongabba",Australia,Pakistan,Test,Australia,bat,Australia
+1000883,Melbourne Cricket Ground,Australia,Pakistan,Test,Pakistan,bat,Australia
+1000885,Sydney Cricket Ground,Australia,Pakistan,Test,Australia,bat,Australia
+1019985,Basin Reserve,New Zealand,Bangladesh,Test,New Zealand,field,New Zealand
+1019987,Hagley Oval,New Zealand,Bangladesh,Test,New Zealand,field,New Zealand
+1019993,Hagley Oval,New Zealand,Pakistan,Test,New Zealand,field,New Zealand
+1019995,Seddon Park,New Zealand,Pakistan,Test,Pakistan,field,New Zealand
+1020041,University Oval,New Zealand,South Africa,Test,South Africa,bat,Unknown
+1020043,Basin Reserve,New Zealand,South Africa,Test,South Africa,field,South Africa
+1020045,Seddon Park,New Zealand,South Africa,Test,South Africa,bat,Unknown
+1022593,"Sir Vivian Richards Stadium, North Sound",West Indies,India,Test,India,bat,India
+1022595,"Sabina Park, Kingston",West Indies,India,Test,West Indies,bat,Unknown
+1022597,"Darren Sammy National Cricket Stadium, Gros Islet",West Indies,India,Test,West Indies,field,India
+1022599,"Queen's Park Oval, Port of Spain",West Indies,India,Test,West Indies,bat,Unknown
+1024041,Queens Sports Club,Zimbabwe,New Zealand,Test,Zimbabwe,bat,New Zealand
+1024043,Queens Sports Club,Zimbabwe,New Zealand,Test,New Zealand,bat,New Zealand
+1029825,Zahur Ahmed Chowdhury Stadium,Bangladesh,England,Test,England,bat,England
+1029827,Shere Bangla National Stadium,Bangladesh,England,Test,Bangladesh,bat,Bangladesh
+1030213,Green Park,India,New Zealand,Test,India,bat,India
+1030215,Eden Gardens,India,New Zealand,Test,India,bat,India
+1030217,Holkar Cricket Stadium,India,New Zealand,Test,India,bat,India
+1031437,Lord's,England,South Africa,Test,England,bat,England
+1031439,Trent Bridge,South Africa,England,Test,South Africa,bat,South Africa
+1031441,Kennington Oval,England,South Africa,Test,England,bat,England
+1031443,Old Trafford,England,South Africa,Test,England,bat,England
+1031659,Edgbaston,England,West Indies,Test,England,bat,England
+1031661,Headingley,England,West Indies,Test,England,bat,West Indies
+1031663,Lord's,West Indies,England,Test,West Indies,bat,England
+1034809,Saurashtra Cricket Association Stadium,India,England,Test,England,bat,Unknown
+1034811,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,England,Test,India,bat,India
+1034813,"Punjab Cricket Association IS Bindra Stadium, Mohali",India,England,Test,England,bat,India
+1034815,Wankhede Stadium,India,England,Test,England,bat,India
+1034817,"MA Chidambaram Stadium, Chepauk",India,England,Test,England,bat,India
+1041761,"Rajiv Gandhi International Stadium, Uppal",India,Bangladesh,Test,India,bat,India
+1050229,Dubai International Cricket Stadium,Pakistan,West Indies,Test,Pakistan,bat,Pakistan
+1050231,Sheikh Zayed Stadium,Pakistan,West Indies,Test,Pakistan,bat,Pakistan
+1050233,Sharjah Cricket Stadium,Pakistan,West Indies,Test,Pakistan,bat,West Indies
+1059702,Harare Sports Club,Zimbabwe,Sri Lanka,Test,Sri Lanka,bat,Sri Lanka
+1059703,Harare Sports Club,Zimbabwe,Sri Lanka,Test,Zimbabwe,field,Sri Lanka
+1062573,Maharashtra Cricket Association Stadium,India,Australia,Test,Australia,bat,Australia
+1062574,M Chinnaswamy Stadium,India,Australia,Test,India,bat,India
+1062575,JSCA International Stadium Complex,India,Australia,Test,Australia,bat,Unknown
+1062576,Himachal Pradesh Cricket Association Stadium,India,Australia,Test,Australia,bat,India
+1072305,"Brisbane Cricket Ground, Woolloongabba",England,Australia,Test,England,bat,Australia
+1072306,Adelaide Oval,Australia,England,Test,England,field,Australia
+1072307,W.A.C.A. Ground,England,Australia,Test,England,bat,Australia
+1072308,Melbourne Cricket Ground,Australia,England,Test,Australia,bat,Unknown
+1072309,Sydney Cricket Ground,England,Australia,Test,England,bat,Australia
+1075502,Senwes Park,South Africa,Bangladesh,Test,Bangladesh,field,South Africa
+1075503,Mangaung Oval,South Africa,Bangladesh,Test,Bangladesh,field,South Africa
+1075982,Kingsmead,Australia,South Africa,Test,Australia,bat,Australia
+1075983,St George's Park,Australia,South Africa,Test,Australia,bat,South Africa
+1075984,Newlands,South Africa,Australia,Test,South Africa,bat,South Africa
+1075985,The Wanderers Stadium,South Africa,Australia,Test,South Africa,bat,South Africa
+1077953,"Sabina Park, Kingston",West Indies,Pakistan,Test,Pakistan,field,Pakistan
+1077954,"Kensington Oval, Bridgetown",West Indies,Pakistan,Test,West Indies,bat,West Indies
+1077955,"Windsor Park, Roseau",West Indies,Pakistan,Test,West Indies,field,Pakistan
+1083444,Galle International Stadium,Sri Lanka,Bangladesh,Test,Sri Lanka,bat,Sri Lanka
+1083445,P Sara Oval,Sri Lanka,Bangladesh,Test,Sri Lanka,bat,Bangladesh
+1086066,"North Sydney Oval, Sydney",England,Australia,Test,England,bat,Unknown
+1104284,"Shere Bangla National Stadium, Mirpur",Bangladesh,Australia,Test,Bangladesh,bat,Bangladesh
+1104285,Zahur Ahmed Chowdhury Stadium,Bangladesh,Australia,Test,Bangladesh,bat,Australia
+1104483,"R.Premadasa Stadium, Khettarama",Zimbabwe,Sri Lanka,Test,Zimbabwe,bat,Sri Lanka
+1109602,Galle International Stadium,India,Sri Lanka,Test,India,bat,India
+1109603,Sinhalese Sports Club Ground,India,Sri Lanka,Test,India,bat,India
+1109604,Pallekele International Cricket Stadium,India,Sri Lanka,Test,India,bat,India
+1115780,Eden Park,England,New Zealand,Test,New Zealand,field,New Zealand
+1115781,Hagley Oval,England,New Zealand,Test,New Zealand,field,Unknown
+1115793,Basin Reserve,West Indies,New Zealand,Test,New Zealand,field,New Zealand
+1115794,Seddon Park,New Zealand,West Indies,Test,West Indies,field,New Zealand
+1119535,Lord's,England,Pakistan,Test,England,bat,Pakistan
+1119536,Headingley,Pakistan,England,Test,Pakistan,bat,England
+1119549,Edgbaston,England,India,Test,England,bat,England
+1119550,Lord's,India,England,Test,England,field,England
+1119551,Trent Bridge,India,England,Test,England,field,India
+1119552,The Rose Bowl,England,India,Test,England,bat,England
+1119553,Kennington Oval,England,India,Test,England,bat,England
+1120284,Sheikh Zayed Stadium,Sri Lanka,Pakistan,Test,Sri Lanka,bat,Sri Lanka
+1120285,Dubai International Cricket Stadium,Sri Lanka,Pakistan,Test,Sri Lanka,bat,Sri Lanka
+1122276,Newlands,South Africa,India,Test,South Africa,bat,South Africa
+1122277,SuperSport Park,South Africa,India,Test,South Africa,bat,South Africa
+1122278,The Wanderers Stadium,India,South Africa,Test,India,bat,India
+1122310,"St George's Park, Port Elizabeth",South Africa,Zimbabwe,Test,South Africa,bat,South Africa
+1122723,Eden Gardens,India,Sri Lanka,Test,Sri Lanka,field,Unknown
+1122724,"Vidarbha Cricket Association Stadium, Jamtha",Sri Lanka,India,Test,Sri Lanka,bat,India
+1122725,Arun Jaitley Stadium,India,Sri Lanka,Test,India,bat,Unknown
+1122886,Queens Sports Club,West Indies,Zimbabwe,Test,West Indies,bat,West Indies
+1122887,Queens Sports Club,Zimbabwe,West Indies,Test,Zimbabwe,bat,Unknown
+1127284,"The Village, Malahide",Ireland,Pakistan,Test,Ireland,field,Pakistan
+1130744,Zahur Ahmed Chowdhury Stadium,Bangladesh,Sri Lanka,Test,Bangladesh,bat,Unknown
+1130745,"Shere Bangla National Stadium, Mirpur",Sri Lanka,Bangladesh,Test,Sri Lanka,bat,Sri Lanka
+1135149,"Queen's Park Oval, Port of Spain",West Indies,Sri Lanka,Test,West Indies,bat,West Indies
+1135150,"Daren Sammy National Cricket Stadium, Gros Islet",Sri Lanka,West Indies,Test,Sri Lanka,bat,Unknown
+1135151,"Kensington Oval, Bridgetown",West Indies,Sri Lanka,Test,West Indies,bat,Sri Lanka
+1140385,Galle International Stadium,England,Sri Lanka,Test,England,bat,England
+1140386,Pallekele International Cricket Stadium,England,Sri Lanka,Test,England,bat,England
+1140387,Sinhalese Sports Club Ground,England,Sri Lanka,Test,England,bat,England
+1142581,Galle International Stadium,Sri Lanka,South Africa,Test,Sri Lanka,bat,Sri Lanka
+1142582,Sinhalese Sports Club Ground,Sri Lanka,South Africa,Test,Sri Lanka,bat,Sri Lanka
+1144153,SuperSport Park,South Africa,Pakistan,Test,Pakistan,bat,South Africa
+1144154,Newlands,South Africa,Pakistan,Test,South Africa,field,South Africa
+1144155,The Wanderers Stadium,South Africa,Pakistan,Test,South Africa,bat,South Africa
+1144164,Kingsmead,South Africa,Sri Lanka,Test,Sri Lanka,field,Sri Lanka
+1144165,St George's Park,South Africa,Sri Lanka,Test,South Africa,bat,Sri Lanka
+1144993,Adelaide Oval,India,Australia,Test,India,bat,India
+1144994,Perth Stadium,Australia,India,Test,Australia,bat,Australia
+1144995,Melbourne Cricket Ground,Australia,India,Test,India,bat,India
+1144996,Sydney Cricket Ground,Australia,India,Test,India,bat,Unknown
+1145000,"Brisbane Cricket Ground, Woolloongabba",Australia,Sri Lanka,Test,Sri Lanka,bat,Australia
+1145001,Manuka Oval,Australia,Sri Lanka,Test,Australia,bat,Australia
+1146717,Sir Vivian Richards Stadium,Bangladesh,West Indies,Test,West Indies,field,West Indies
+1146718,"Sabina Park, Kingston",West Indies,Bangladesh,Test,Bangladesh,field,West Indies
+1152839,Lord's,England,Ireland,Test,England,bat,England
+1152846,Edgbaston,England,Australia,Test,Australia,bat,Australia
+1152847,Lord's,England,Australia,Test,Australia,field,Unknown
+1152848,Headingley,England,Australia,Test,England,field,England
+1152849,Old Trafford,England,Australia,Test,Australia,bat,Australia
+1152850,Kennington Oval,England,Australia,Test,Australia,field,England
+1153311,Zahur Ahmed Chowdhury Stadium,Bangladesh,West Indies,Test,Bangladesh,bat,Bangladesh
+1153312,"Shere Bangla National Stadium, Mirpur",Bangladesh,West Indies,Test,Bangladesh,bat,Bangladesh
+1153639,Sylhet International Cricket Stadium,Zimbabwe,Bangladesh,Test,Zimbabwe,bat,Zimbabwe
+1153640,"Shere Bangla National Stadium, Mirpur",Bangladesh,Zimbabwe,Test,Bangladesh,bat,Bangladesh
+1153838,"Basin Reserve, Wellington",Sri Lanka,New Zealand,Test,New Zealand,field,Unknown
+1153839,Hagley Oval,New Zealand,Sri Lanka,Test,Sri Lanka,field,New Zealand
+1153847,Seddon Park,New Zealand,Bangladesh,Test,New Zealand,field,New Zealand
+1153848,Basin Reserve,New Zealand,Bangladesh,Test,New Zealand,field,New Zealand
+1157370,Dubai International Cricket Stadium,Pakistan,Australia,Test,Pakistan,bat,Unknown
+1157371,Sheikh Zayed Stadium,Pakistan,Australia,Test,Pakistan,bat,Pakistan
+1157381,Sheikh Zayed Stadium,New Zealand,Pakistan,Test,New Zealand,bat,New Zealand
+1157382,Dubai International Cricket Stadium,Pakistan,New Zealand,Test,Pakistan,bat,Pakistan
+1157383,Sheikh Zayed Stadium,New Zealand,Pakistan,Test,New Zealand,bat,New Zealand
+1157752,Saurashtra Cricket Association Stadium,India,West Indies,Test,India,bat,India
+1157753,"Rajiv Gandhi International Stadium, Uppal",West Indies,India,Test,West Indies,bat,India
+1158062,"Kensington Oval, Barbados",West Indies,England,Test,West Indies,bat,West Indies
+1158063,"Sir Vivian Richards Stadium, Antigua",West Indies,England,Test,West Indies,field,West Indies
+1158064,"Daren Sammy National Cricket Stadium, St Lucia",West Indies,England,Test,West Indies,field,England
+1168025,The Cooper Associates County Ground,England,Australia,Test,Australia,bat,Unknown
+1183530,"Brisbane Cricket Ground, Woolloongabba",Australia,Pakistan,Test,Pakistan,bat,Australia
+1183531,Adelaide Oval,Australia,Pakistan,Test,Australia,bat,Australia
+1183532,Perth Stadium,Australia,New Zealand,Test,Australia,bat,Australia
+1183533,Melbourne Cricket Ground,Australia,New Zealand,Test,New Zealand,field,Australia
+1183534,Sydney Cricket Ground,Australia,New Zealand,Test,Australia,bat,Australia
+1185304,SuperSport Park,South Africa,England,Test,England,field,South Africa
+1185305,Newlands,South Africa,England,Test,England,bat,England
+1185306,St George's Park,South Africa,England,Test,England,bat,England
+1185307,The Wanderers Stadium,South Africa,England,Test,England,bat,England
+1187007,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,South Africa,Test,India,bat,India
+1187008,Maharashtra Cricket Association Stadium,India,South Africa,Test,India,bat,India
+1187009,JSCA International Stadium Complex,India,South Africa,Test,India,bat,India
+1187016,Holkar Cricket Stadium,India,Bangladesh,Test,Bangladesh,bat,India
+1187017,Eden Gardens,India,Bangladesh,Test,Bangladesh,bat,India
+1187671,Bay Oval,New Zealand,England,Test,England,bat,New Zealand
+1187672,Seddon Park,New Zealand,England,Test,England,field,Unknown
+1187685,Basin Reserve,New Zealand,India,Test,New Zealand,field,New Zealand
+1187686,Hagley Oval,New Zealand,India,Test,New Zealand,field,New Zealand
+1188628,"Sir Vivian Richards Stadium, Antigua",West Indies,India,Test,West Indies,field,India
+1188629,"Sabina Park, Jamaica",West Indies,India,Test,West Indies,field,India
+1192873,Galle International Stadium,Sri Lanka,New Zealand,Test,New Zealand,bat,Sri Lanka
+1192874,P Sara Oval,Sri Lanka,New Zealand,Test,Sri Lanka,bat,New Zealand
+1198241,Old Trafford,Pakistan,England,Test,Pakistan,bat,England
+1198242,The Rose Bowl,Pakistan,England,Test,Pakistan,bat,Unknown
+1198243,The Rose Bowl,England,Pakistan,Test,England,bat,Unknown
+1206635,Rawalpindi Cricket Stadium,Pakistan,Sri Lanka,Test,Sri Lanka,bat,Unknown
+1206636,National Stadium,Pakistan,Sri Lanka,Test,Pakistan,bat,Pakistan
+1212541,Harare Sports Club,Zimbabwe,Sri Lanka,Test,Zimbabwe,bat,Sri Lanka
+1212542,Harare Sports Club,Zimbabwe,Sri Lanka,Test,Zimbabwe,bat,Unknown
+1213062,Rawalpindi Cricket Stadium,Pakistan,Bangladesh,Test,Pakistan,field,Pakistan
+1214666,"Shere Bangla National Stadium, Mirpur",Bangladesh,Zimbabwe,Test,Zimbabwe,bat,Bangladesh
+1223869,Adelaide Oval,India,Australia,Test,India,bat,Australia
+1223870,Melbourne Cricket Ground,Australia,India,Test,Australia,bat,India
+1223871,Sydney Cricket Ground,Australia,India,Test,Australia,bat,Unknown
+1223872,Brisbane Cricket Ground,Australia,India,Test,Australia,bat,India
+1225247,The Rose Bowl,England,West Indies,Test,England,bat,West Indies
+1225248,Old Trafford,England,West Indies,Test,West Indies,field,England
+1225249,Old Trafford,England,West Indies,Test,West Indies,field,England
+1233957,Seddon Park,New Zealand,West Indies,Test,West Indies,field,New Zealand
+1233958,Basin Reserve,New Zealand,West Indies,Test,West Indies,field,New Zealand
+1233962,Bay Oval,New Zealand,Pakistan,Test,Pakistan,field,New Zealand
+1233963,Hagley Oval,Pakistan,New Zealand,Test,New Zealand,field,New Zealand
+1237356,SuperSport Park,Sri Lanka,South Africa,Test,Sri Lanka,bat,South Africa
+1237357,The Wanderers Stadium,Sri Lanka,South Africa,Test,Sri Lanka,bat,South Africa
+1239543,"Trent Bridge, Nottingham",England,India,Test,England,bat,Unknown
+1239544,"Lord's, London",India,England,Test,England,field,India
+1239545,"Headingley, Leeds",India,England,Test,India,bat,England
+1239546,"Kennington Oval, London",India,England,Test,England,field,India
+1243015,Galle International Stadium,Sri Lanka,England,Test,Sri Lanka,bat,England
+1243016,Galle International Stadium,Sri Lanka,England,Test,Sri Lanka,bat,England
+1243017,National Stadium,South Africa,Pakistan,Test,South Africa,bat,Pakistan
+1243018,Rawalpindi Cricket Stadium,Pakistan,South Africa,Test,Pakistan,bat,Pakistan
+1243384,MA Chidambaram Stadium,England,India,Test,England,bat,England
+1243385,MA Chidambaram Stadium,India,England,Test,India,bat,India
+1243386,Narendra Modi Stadium,England,India,Test,England,bat,India
+1243387,Narendra Modi Stadium,England,India,Test,England,bat,India
+1244025,Zahur Ahmed Chowdhury Stadium,Bangladesh,West Indies,Test,Bangladesh,bat,West Indies
+1244026,Shere Bangla National Stadium,West Indies,Bangladesh,Test,West Indies,bat,West Indies
+1249210,"Lord's, London",New Zealand,England,Test,New Zealand,bat,Unknown
+1249211,"Edgbaston, Birmingham",England,New Zealand,Test,England,bat,New Zealand
+1249875,"The Rose Bowl, Southampton",India,New Zealand,Test,New Zealand,field,New Zealand
+1252073,Sir Vivian Richards Stadium,Sri Lanka,West Indies,Test,West Indies,field,Unknown
+1252074,Sir Vivian Richards Stadium,West Indies,Sri Lanka,Test,Sri Lanka,field,Unknown
+1255828,Pallekele International Cricket Stadium,Sri Lanka,Bangladesh,Test,Bangladesh,bat,Unknown
+1255829,Pallekele International Cricket Stadium,Sri Lanka,Bangladesh,Test,Sri Lanka,bat,Sri Lanka
+1256726,"Sir Vivian Richards Stadium, North Sound, Antigua",England,West Indies,Test,England,bat,Unknown
+1256727,"Kensington Oval, Bridgetown, Barbados",England,West Indies,Test,England,bat,Unknown
+1256728,"National Cricket Stadium, St George's, Grenada",England,West Indies,Test,West Indies,field,West Indies
+1257186,Harare Sports Club,Zimbabwe,Pakistan,Test,Zimbabwe,bat,Pakistan
+1257187,Harare Sports Club,Pakistan,Zimbabwe,Test,Pakistan,bat,Pakistan
+1260093,"County Ground, Bristol",England,India,Test,England,bat,Unknown
+1263149,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,South Africa,Test,West Indies,bat,South Africa
+1263150,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",South Africa,West Indies,Test,West Indies,field,South Africa
+1263169,"Sabina Park, Kingston, Jamaica",Pakistan,West Indies,Test,West Indies,field,West Indies
+1263170,"Sabina Park, Kingston, Jamaica",Pakistan,West Indies,Test,West Indies,field,Pakistan
+1263462,"Brisbane Cricket Ground, Woolloongabba, Brisbane",England,Australia,Test,England,bat,Australia
+1263463,Adelaide Oval,Australia,England,Test,Australia,bat,Australia
+1263464,Melbourne Cricket Ground,England,Australia,Test,Australia,field,Australia
+1263465,Sydney Cricket Ground,Australia,England,Test,Australia,bat,Unknown
+1263466,"Bellerive Oval, Hobart",Australia,England,Test,England,field,Australia
+1263571,"Manuka Oval, Canberra",Australia,England,Test,England,field,Unknown
+1263620,Carrara Oval,India,Australia,Test,Australia,field,Unknown
+1267676,Harare Sports Club,Bangladesh,Zimbabwe,Test,Bangladesh,bat,Bangladesh
+1276901,"Lord's, London",New Zealand,England,Test,New Zealand,bat,England
+1276902,"Trent Bridge, Nottingham",New Zealand,England,Test,England,field,England
+1276903,"Headingley, Leeds",New Zealand,England,Test,New Zealand,bat,England
+1276916,"Lord's, London",England,South Africa,Test,South Africa,field,South Africa
+1276917,"Old Trafford, Manchester",South Africa,England,Test,South Africa,bat,England
+1276918,"Kennington Oval, London",South Africa,England,Test,England,field,England
+1277079,"SuperSport Park, Centurion",India,South Africa,Test,India,bat,India
+1277080,"The Wanderers Stadium, Johannesburg",India,South Africa,Test,India,bat,South Africa
+1277081,"Newlands, Cape Town",India,South Africa,Test,India,bat,South Africa
+1277100,"Kingsmead, Durban",South Africa,Bangladesh,Test,Bangladesh,field,South Africa
+1277101,"St George's Park, Port Elizabeth",South Africa,Bangladesh,Test,South Africa,bat,South Africa
+1277977,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Pakistan,Test,Bangladesh,bat,Pakistan
+1277978,"Shere Bangla National Stadium, Mirpur",Pakistan,Bangladesh,Test,Pakistan,bat,Pakistan
+1278674,"Green Park, Kanpur",India,New Zealand,Test,India,bat,Unknown
+1278675,"Wankhede Stadium, Mumbai",India,New Zealand,Test,India,bat,India
+1278682,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,Sri Lanka,Test,India,bat,India
+1278683,"M Chinnaswamy Stadium, Bengaluru",India,Sri Lanka,Test,India,bat,India
+1288310,Rawalpindi Cricket Stadium,Pakistan,Australia,Test,Pakistan,bat,Unknown
+1288311,"National Stadium, Karachi",Australia,Pakistan,Test,Australia,bat,Unknown
+1288312,"Gaddafi Stadium, Lahore",Australia,Pakistan,Test,Australia,bat,Australia
+1288345,Galle International Stadium,Sri Lanka,West Indies,Test,Sri Lanka,bat,Sri Lanka
+1288346,Galle International Stadium,Sri Lanka,West Indies,Test,Sri Lanka,bat,Sri Lanka
+1288979,"Bay Oval, Mount Maunganui",New Zealand,Bangladesh,Test,Bangladesh,field,Bangladesh
+1288980,"Hagley Oval, Christchurch",New Zealand,Bangladesh,Test,Bangladesh,field,New Zealand
+1288981,"Hagley Oval, Christchurch",South Africa,New Zealand,Test,New Zealand,field,New Zealand
+1288982,"Hagley Oval, Christchurch",South Africa,New Zealand,Test,South Africa,bat,South Africa
+1301327,"The Cooper Associates County Ground, Taunton",South Africa,England,Test,England,field,Unknown
+1307301,Galle International Stadium,Sri Lanka,Australia,Test,Sri Lanka,bat,Australia
+1307302,Galle International Stadium,Australia,Sri Lanka,Test,Australia,bat,Sri Lanka
+1308488,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sri Lanka,Bangladesh,Test,Sri Lanka,bat,Unknown
+1308489,"Shere Bangla National Stadium, Mirpur",Bangladesh,Sri Lanka,Test,Bangladesh,bat,Sri Lanka
+1317147,"Sir Vivian Richards Stadium, North Sound, Antigua",Bangladesh,West Indies,Test,West Indies,field,West Indies
+1317148,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Bangladesh,West Indies,Test,West Indies,field,West Indies
+1317484,Perth Stadium,Australia,West Indies,Test,Australia,bat,Australia
+1317485,Adelaide Oval,Australia,West Indies,Test,Australia,bat,Australia
+1317492,"Brisbane Cricket Ground, Woolloongabba, Brisbane",South Africa,Australia,Test,Australia,field,Australia
+1317493,Melbourne Cricket Ground,South Africa,Australia,Test,Australia,field,Australia
+1317494,Sydney Cricket Ground,Australia,South Africa,Test,Australia,bat,Unknown
+1320741,"Edgbaston, Birmingham",India,England,Test,England,field,England
+1320953,Galle International Stadium,Sri Lanka,Pakistan,Test,Sri Lanka,bat,Pakistan
+1320954,Galle International Stadium,Sri Lanka,Pakistan,Test,Sri Lanka,bat,Sri Lanka
+1322355,"Bay Oval, Mount Maunganui",England,New Zealand,Test,New Zealand,field,England
+1322356,"Basin Reserve, Wellington",England,New Zealand,Test,New Zealand,field,New Zealand
+1322357,"Hagley Oval, Christchurch",Sri Lanka,New Zealand,Test,New Zealand,field,New Zealand
+1322358,"Basin Reserve, Wellington",New Zealand,Sri Lanka,Test,Sri Lanka,field,New Zealand
+1330871,Rawalpindi Cricket Stadium,England,Pakistan,Test,England,bat,England
+1330872,Multan Cricket Stadium,England,Pakistan,Test,England,bat,England
+1330873,"National Stadium, Karachi",Pakistan,England,Test,Pakistan,bat,England
+1336043,"Edgbaston, Birmingham",England,Australia,Test,England,bat,Australia
+1336044,"Lord's, London",Australia,England,Test,England,field,Australia
+1336045,"Headingley, Leeds",Australia,England,Test,England,field,England
+1336046,"Old Trafford, Manchester",Australia,England,Test,England,field,Unknown
+1336047,"Kennington Oval, London",England,Australia,Test,Australia,field,England
+1336073,"Trent Bridge, Nottingham",Australia,England,Test,Australia,bat,Australia
+1336127,"Lord's, London",Ireland,England,Test,England,field,England
+1339599,"SuperSport Park, Centurion",South Africa,West Indies,Test,South Africa,bat,South Africa
+1339600,"The Wanderers Stadium, Johannesburg",South Africa,West Indies,Test,South Africa,bat,South Africa
+1339609,"National Stadium, Karachi",Pakistan,New Zealand,Test,Pakistan,bat,Unknown
+1339610,"National Stadium, Karachi",New Zealand,Pakistan,Test,New Zealand,bat,Unknown
+1340848,"Zahur Ahmed Chowdhury Stadium, Chattogram",India,Bangladesh,Test,India,bat,India
+1340849,"Shere Bangla National Stadium, Mirpur",Bangladesh,India,Test,Bangladesh,bat,India
+1348652,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Australia,India,Test,Australia,bat,India
+1348653,"Arun Jaitley Stadium, Delhi",Australia,India,Test,Australia,bat,India
+1348654,"Holkar Cricket Stadium, Indore",India,Australia,Test,India,bat,Australia
+1348655,"Narendra Modi Stadium, Ahmedabad",Australia,India,Test,Australia,bat,Unknown
+1350681,"Queens Sports Club, Bulawayo",West Indies,Zimbabwe,Test,West Indies,bat,Unknown
+1350682,"Queens Sports Club, Bulawayo",Zimbabwe,West Indies,Test,Zimbabwe,bat,West Indies
+1355723,"Shere Bangla National Stadium, Mirpur",Ireland,Bangladesh,Test,Ireland,bat,Bangladesh
+1358412,"Kennington Oval, London",Australia,India,Test,India,field,Australia
+1363447,Galle International Stadium,Sri Lanka,Ireland,Test,Sri Lanka,bat,Sri Lanka
+1363448,Galle International Stadium,Ireland,Sri Lanka,Test,Ireland,bat,Sri Lanka
+1375842,Perth Stadium,Australia,Pakistan,Test,Australia,bat,Australia
+1375843,Melbourne Cricket Ground,Australia,Pakistan,Test,Pakistan,field,Australia
+1375844,Sydney Cricket Ground,Pakistan,Australia,Test,Pakistan,bat,Australia
+1375845,Adelaide Oval,West Indies,Australia,Test,Australia,field,Australia
+1375846,"Brisbane Cricket Ground, Woolloongabba, Brisbane",West Indies,Australia,Test,West Indies,bat,West Indies
+1375875,"Western Australia Cricket Association Ground, Perth",South Africa,Australia,Test,Australia,field,Australia
+1381212,"Windsor Park, Roseau, Dominica",West Indies,India,Test,West Indies,bat,India
+1381213,"Queen's Park Oval, Port of Spain, Trinidad",India,West Indies,Test,West Indies,field,Unknown
+1385685,Galle International Stadium,Sri Lanka,Pakistan,Test,Sri Lanka,bat,Pakistan
+1385686,"Sinhalese Sports Club Ground, Colombo",Sri Lanka,Pakistan,Test,Sri Lanka,bat,Pakistan
+1385691,"Lord's, London",West Indies,England,Test,England,field,England
+1385692,"Trent Bridge, Nottingham",England,West Indies,Test,West Indies,field,England
+1385693,"Edgbaston, Birmingham",West Indies,England,Test,West Indies,bat,England
+1385694,"Old Trafford, Manchester",Sri Lanka,England,Test,Sri Lanka,bat,England
+1385695,"Lord's, London",England,Sri Lanka,Test,Sri Lanka,field,England
+1385696,"Kennington Oval, London",England,Sri Lanka,Test,Sri Lanka,field,Sri Lanka
+1387603,"SuperSport Park, Centurion",India,South Africa,Test,South Africa,field,South Africa
+1387604,"Newlands, Cape Town",South Africa,India,Test,South Africa,bat,India
+1388221,"Bay Oval, Mount Maunganui",New Zealand,South Africa,Test,South Africa,field,New Zealand
+1388222,"Seddon Park, Hamilton",South Africa,New Zealand,Test,South Africa,bat,New Zealand
+1388226,"Basin Reserve, Wellington",Australia,New Zealand,Test,New Zealand,field,Australia
+1388227,"Hagley Oval, Christchurch",New Zealand,Australia,Test,Australia,field,Australia
+1389399,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",England,India,Test,England,bat,England
+1389400,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,England,Test,India,bat,India
+1389401,"Saurashtra Cricket Association Stadium, Rajkot",India,England,Test,India,bat,India
+1389402,"JSCA International Stadium Complex, Ranchi",England,India,Test,England,bat,India
+1389403,"Himachal Pradesh Cricket Association Stadium, Dharamsala",England,India,Test,England,bat,India
+1395703,Sylhet International Cricket Stadium,Bangladesh,New Zealand,Test,Bangladesh,bat,Bangladesh
+1395704,"Shere Bangla National Stadium, Mirpur",Bangladesh,New Zealand,Test,Bangladesh,bat,New Zealand
+1406076,"Dr DY Patil Sports Academy, Mumbai",India,England,Test,India,bat,India
+1406077,"Wankhede Stadium, Mumbai",Australia,India,Test,Australia,bat,India
+1419830,Sylhet International Cricket Stadium,Sri Lanka,Bangladesh,Test,Bangladesh,field,Sri Lanka
+1419831,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sri Lanka,Bangladesh,Test,Sri Lanka,bat,Sri Lanka
+1426555,Perth Stadium,India,Australia,Test,India,bat,India
+1426556,Adelaide Oval,India,Australia,Test,India,bat,Australia
+1426557,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,India,Test,India,field,Unknown
+1426558,Melbourne Cricket Ground,Australia,India,Test,Australia,bat,Australia
+1426559,Sydney Cricket Ground,India,Australia,Test,India,bat,Australia
+1426629,Melbourne Cricket Ground,England,Australia,Test,Australia,field,Australia
+1428554,"Hagley Oval, Christchurch",New Zealand,England,Test,England,field,England
+1428555,"Basin Reserve, Wellington",England,New Zealand,Test,New Zealand,field,England
+1428556,"Seddon Park, Hamilton",New Zealand,England,Test,England,field,New Zealand
+1431085,"Civil Service Cricket Club, Stormont, Belfast",Zimbabwe,Ireland,Test,Ireland,field,Ireland
+1432209,"Kingsmead, Durban",South Africa,Sri Lanka,Test,Sri Lanka,field,South Africa
+1432210,"St George's Park, Gqeberha",South Africa,Sri Lanka,Test,South Africa,bat,South Africa
+1432217,"SuperSport Park, Centurion",Pakistan,South Africa,Test,South Africa,field,South Africa
+1432218,"Newlands, Cape Town",South Africa,Pakistan,Test,South Africa,bat,South Africa
+1432231,"Mangaung Oval, Bloemfontein",England,South Africa,Test,England,bat,England
+1433365,"Queen's Park Oval, Port of Spain, Trinidad",South Africa,West Indies,Test,South Africa,bat,Unknown
+1433366,"Providence Stadium, Guyana",South Africa,West Indies,Test,South Africa,bat,South Africa
+1433378,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,Bangladesh,Test,Bangladesh,field,West Indies
+1433379,"Sabina Park, Kingston, Jamaica",Bangladesh,West Indies,Test,Bangladesh,bat,Bangladesh
+1434290,"MA Chidambaram Stadium, Chepauk, Chennai",India,South Africa,Test,India,bat,India
+1439891,"MA Chidambaram Stadium, Chepauk, Chennai",India,Bangladesh,Test,Bangladesh,field,India
+1439892,"Green Park, Kanpur",Bangladesh,India,Test,India,field,India
+1439896,"M Chinnaswamy Stadium, Bengaluru",India,New Zealand,Test,India,bat,New Zealand
+1439897,"Maharashtra Cricket Association Stadium, Pune",New Zealand,India,Test,New Zealand,bat,New Zealand
+1439898,"Wankhede Stadium, Mumbai",New Zealand,India,Test,New Zealand,bat,New Zealand
+1442213,Rawalpindi Cricket Stadium,Pakistan,Bangladesh,Test,Bangladesh,field,Bangladesh
+1442214,Rawalpindi Cricket Stadium,Pakistan,Bangladesh,Test,Bangladesh,field,Bangladesh
+1442215,Multan Cricket Stadium,Pakistan,England,Test,Pakistan,bat,England
+1442216,Multan Cricket Stadium,Pakistan,England,Test,Pakistan,bat,Pakistan
+1442217,Rawalpindi Cricket Stadium,England,Pakistan,Test,England,bat,Pakistan
+1442218,Multan Cricket Stadium,Pakistan,West Indies,Test,Pakistan,bat,Pakistan
+1442219,Multan Cricket Stadium,West Indies,Pakistan,Test,West Indies,bat,West Indies
+1447096,Galle International Stadium,Sri Lanka,New Zealand,Test,Sri Lanka,bat,Sri Lanka
+1447097,Galle International Stadium,Sri Lanka,New Zealand,Test,Sri Lanka,bat,Sri Lanka
+1453293,"Shere Bangla National Stadium, Mirpur",Bangladesh,South Africa,Test,Bangladesh,bat,South Africa
+1453294,"Zahur Ahmed Chowdhury Stadium, Chattogram",South Africa,Bangladesh,Test,South Africa,bat,South Africa
+1459906,Galle International Stadium,Australia,Sri Lanka,Test,Australia,bat,Australia
+1459907,Galle International Stadium,Sri Lanka,Australia,Test,Sri Lanka,bat,Australia
+1467700,"Queens Sports Club, Bulawayo",Ireland,Zimbabwe,Test,Ireland,bat,Ireland
+207334,Kensington Oval,West Indies,South Africa,Test,West Indies,bat,South Africa
+208321,Antigua Recreation Ground,South Africa,West Indies,Test,South Africa,bat,Unknown
+210366,Riverside Ground,Bangladesh,England,Test,England,field,England
+215253,Harare Sports Club,New Zealand,Zimbabwe,Test,Zimbabwe,field,New Zealand
+216055,Queens Sports Club,Zimbabwe,New Zealand,Test,Zimbabwe,bat,New Zealand
+216932,"County Ground, New Road, Worcester",Australia,England,Test,England,field,England
+218813,R.Premadasa Stadium,Bangladesh,Sri Lanka,Test,Sri Lanka,field,Sri Lanka
+219062,Queens Sports Club,Zimbabwe,India,Test,Zimbabwe,bat,India
+219612,P Sara Oval,Sri Lanka,Bangladesh,Test,Sri Lanka,bat,Sri Lanka
+221840,Sydney Cricket Ground,Australia,ICC World XI,Test,Australia,bat,Australia
+225164,"Grace Road, Leicester",England,India,Test,England,bat,Unknown
+225255,Lord's,England,Pakistan,Test,England,bat,Unknown
+225256,Old Trafford,Pakistan,England,Test,Pakistan,bat,England
+225257,Headingley,England,Pakistan,Test,England,bat,England
+225258,Kennington Oval,England,Pakistan,Test,Pakistan,field,England
+225264,Lord's,England,Sri Lanka,Test,England,bat,Unknown
+225265,Edgbaston,Sri Lanka,England,Test,Sri Lanka,bat,England
+225266,Trent Bridge,Sri Lanka,England,Test,Sri Lanka,bat,Sri Lanka
+225443,Multan Cricket Stadium,Pakistan,England,Test,Pakistan,bat,Pakistan
+226120,Bellerive Oval,West Indies,Australia,Test,West Indies,bat,Australia
+226350,Iqbal Stadium,Pakistan,England,Test,Pakistan,bat,Unknown
+226363,Sardar Patel Stadium,India,Sri Lanka,Test,India,bat,India
+226372,Melbourne Cricket Ground,Australia,South Africa,Test,Australia,bat,Australia
+226373,Sydney Cricket Ground,South Africa,Australia,Test,South Africa,bat,Australia
+233797,Iqbal Stadium,Pakistan,India,Test,Pakistan,bat,Unknown
+234783,National Stadium,Pakistan,India,Test,India,field,Pakistan
+238167,Zahur Ahmed Chowdhury Stadium,Bangladesh,Sri Lanka,Test,Bangladesh,bat,Sri Lanka
+238168,Shaheed Chandu Stadium,Bangladesh,Sri Lanka,Test,Bangladesh,bat,Sri Lanka
+238171,Khan Shaheb Osman Ali Stadium,Bangladesh,Australia,Test,Bangladesh,bat,Australia
+238180,Eden Park,New Zealand,West Indies,Test,West Indies,field,New Zealand
+238186,"Punjab Cricket Association IS Bindra Stadium, Mohali",England,India,Test,England,bat,India
+238201,Newlands,South Africa,Australia,Test,South Africa,bat,Australia
+238202,Kingsmead,Australia,South Africa,Test,Australia,bat,Australia
+238203,The Wanderers Stadium,South Africa,Australia,Test,South Africa,bat,Australia
+238205,SuperSport Park,South Africa,New Zealand,Test,South Africa,bat,South Africa
+238206,Newlands,New Zealand,South Africa,Test,South Africa,field,Unknown
+238207,The Wanderers Stadium,New Zealand,South Africa,Test,South Africa,field,South Africa
+238217,Asgiriya Stadium,Sri Lanka,Pakistan,Test,Pakistan,field,Pakistan
+239025,Vidarbha C.A. Ground,England,India,Test,England,bat,Unknown
+239920,"Antigua Recreation Ground, St John's",India,West Indies,Test,India,bat,Unknown
+239921,"Daren Sammy National Cricket Stadium, Gros Islet",India,West Indies,Test,India,bat,Unknown
+239922,"Warner Park, Basseterre",West Indies,India,Test,West Indies,bat,Unknown
+239923,"Sabina Park, Kingston",India,West Indies,Test,India,bat,India
+249193,Sinhalese Sports Club Ground,South Africa,Sri Lanka,Test,South Africa,bat,Sri Lanka
+249194,P Sara Oval,South Africa,Sri Lanka,Test,South Africa,bat,Sri Lanka
+249215,The Wanderers Stadium,India,South Africa,Test,India,bat,India
+249216,Kingsmead,South Africa,India,Test,South Africa,bat,South Africa
+249217,Newlands,India,South Africa,Test,India,bat,South Africa
+249222,"Brisbane Cricket Ground, Woolloongabba",Australia,England,Test,Australia,bat,Australia
+249223,Adelaide Oval,England,Australia,Test,England,bat,Australia
+249224,W.A.C.A. Ground,Australia,England,Test,Australia,bat,Australia
+249225,Melbourne Cricket Ground,England,Australia,Test,England,bat,Australia
+249226,Sydney Cricket Ground,England,Australia,Test,England,bat,Australia
+250666,St George's Park,South Africa,Pakistan,Test,South Africa,bat,Pakistan
+250667,Newlands,Pakistan,South Africa,Test,South Africa,field,South Africa
+251485,AMI Stadium,Sri Lanka,New Zealand,Test,Sri Lanka,bat,New Zealand
+251486,Basin Reserve,Sri Lanka,New Zealand,Test,Sri Lanka,bat,Sri Lanka
+257765,Gaddafi Stadium,West Indies,Pakistan,Test,West Indies,bat,Pakistan
+257766,Multan Cricket Stadium,Pakistan,West Indies,Test,Pakistan,bat,Unknown
+258459,Lord's,England,West Indies,Test,West Indies,field,Unknown
+258460,Headingley,England,West Indies,Test,England,bat,England
+258461,Old Trafford,England,West Indies,Test,England,bat,England
+258462,Riverside Ground,West Indies,England,Test,England,field,England
+258468,Lord's,England,India,Test,England,bat,Unknown
+258469,Trent Bridge,England,India,Test,India,field,India
+258470,Kennington Oval,India,England,Test,India,bat,Unknown
+282691,Zahur Ahmed Chowdhury Stadium,India,Bangladesh,Test,India,bat,Unknown
+282692,"Shere Bangla National Stadium, Mirpur",India,Bangladesh,Test,Bangladesh,field,India
+291222,Asgiriya Stadium,Sri Lanka,England,Test,Sri Lanka,bat,Sri Lanka
+291223,Sinhalese Sports Club Ground,England,Sri Lanka,Test,England,bat,Unknown
+291224,Galle International Stadium,Sri Lanka,England,Test,England,field,Unknown
+291338,"Brisbane Cricket Ground, Woolloongabba",Australia,Sri Lanka,Test,Sri Lanka,field,Australia
+291339,Bellerive Oval,Australia,Sri Lanka,Test,Australia,bat,Australia
+291351,Melbourne Cricket Ground,Australia,India,Test,Australia,bat,Australia
+291352,Sydney Cricket Ground,Australia,India,Test,Australia,bat,Australia
+291353,Western Australia Cricket Association Ground,Australia,India,Test,India,bat,India
+291354,Adelaide Oval,Australia,India,Test,India,bat,Unknown
+293478,Sinhalese Sports Club Ground,Bangladesh,Sri Lanka,Test,Sri Lanka,field,Sri Lanka
+293479,P Sara Oval,Bangladesh,Sri Lanka,Test,Sri Lanka,field,Sri Lanka
+293480,Asgiriya Stadium,Bangladesh,Sri Lanka,Test,Sri Lanka,field,Sri Lanka
+296900,Lord's,England,New Zealand,Test,England,field,Unknown
+296901,Old Trafford,England,New Zealand,Test,New Zealand,bat,England
+296902,Trent Bridge,England,New Zealand,Test,New Zealand,field,England
+296909,Lord's,England,South Africa,Test,South Africa,field,Unknown
+296910,Headingley,England,South Africa,Test,South Africa,field,South Africa
+296911,Edgbaston,England,South Africa,Test,England,bat,South Africa
+296912,Kennington Oval,England,South Africa,Test,South Africa,bat,England
+297806,Arun Jaitley Stadium,Pakistan,India,Test,Pakistan,bat,India
+297807,Eden Gardens,India,Pakistan,Test,India,bat,Unknown
+297808,M.Chinnaswamy Stadium,India,Pakistan,Test,India,bat,Unknown
+298793,The Wanderers Stadium,South Africa,New Zealand,Test,South Africa,bat,South Africa
+298794,SuperSport Park,New Zealand,South Africa,Test,New Zealand,bat,South Africa
+298801,St George's Park,West Indies,South Africa,Test,South Africa,field,West Indies
+298802,Newlands,South Africa,West Indies,Test,West Indies,bat,South Africa
+298803,Kingsmead,South Africa,West Indies,Test,South Africa,field,South Africa
+299004,National Stadium,South Africa,Pakistan,Test,South Africa,bat,South Africa
+299005,Gaddafi Stadium,South Africa,Pakistan,Test,South Africa,bat,Unknown
+300429,University Oval,New Zealand,Bangladesh,Test,New Zealand,field,New Zealand
+300430,Basin Reserve,New Zealand,Bangladesh,Test,New Zealand,field,New Zealand
+300442,Seddon Park,New Zealand,England,Test,New Zealand,bat,New Zealand
+300443,Basin Reserve,New Zealand,England,Test,New Zealand,field,England
+300444,McLean Park,New Zealand,England,Test,England,bat,England
+312450,"Bradman Oval, Bowral",Australia,England,Test,England,field,England
+319132,Providence Stadium,West Indies,Sri Lanka,Test,Sri Lanka,bat,Sri Lanka
+319133,"Queen's Park Oval, Port of Spain",West Indies,Sri Lanka,Test,West Indies,field,West Indies
+319139,"Sabina Park, Kingston",West Indies,Australia,Test,Australia,bat,Australia
+319140,"Sir Vivian Richards Stadium, North Sound",West Indies,Australia,Test,Australia,bat,Unknown
+319141,"Kensington Oval, Bridgetown",West Indies,Australia,Test,West Indies,field,Australia
+323947,Shere Bangla National Stadium,Bangladesh,South Africa,Test,Bangladesh,bat,South Africa
+323948,Chittagong Divisional Stadium,Bangladesh,South Africa,Test,South Africa,bat,South Africa
+332911,"MA Chidambaram Stadium, Chepauk",India,South Africa,Test,South Africa,bat,Unknown
+332912,"Sardar Patel Stadium, Motera",India,South Africa,Test,India,bat,South Africa
+332913,Green Park,India,South Africa,Test,South Africa,bat,India
+343729,Sinhalese Sports Club Ground,Sri Lanka,India,Test,Sri Lanka,bat,Sri Lanka
+343730,Galle International Stadium,Sri Lanka,India,Test,India,bat,India
+343731,P Saravanamuttu Stadium,Sri Lanka,India,Test,India,bat,Sri Lanka
+345669,M Chinnaswamy Stadium,India,Australia,Test,Australia,bat,Unknown
+345670,"Punjab Cricket Association Stadium, Mohali",India,Australia,Test,India,bat,India
+345671,Feroz Shah Kotla,India,Australia,Test,India,bat,Unknown
+345672,"Vidarbha Cricket Association Stadium, Jamtha",India,Australia,Test,India,bat,India
+345970,Sophia Gardens,England,Australia,Test,England,bat,Unknown
+345971,Lord's,England,Australia,Test,England,bat,England
+345972,Edgbaston,England,Australia,Test,Australia,bat,Unknown
+345973,Headingley,England,Australia,Test,England,bat,Australia
+345974,Kennington Oval,England,Australia,Test,England,bat,England
+350345,OUTsurance Oval,South Africa,Bangladesh,Test,Bangladesh,field,South Africa
+350346,SuperSport Park,South Africa,Bangladesh,Test,Bangladesh,bat,South Africa
+350472,New Wanderers Stadium,South Africa,Australia,Test,Australia,bat,Australia
+350473,Kingsmead,South Africa,Australia,Test,Australia,bat,Australia
+350474,Newlands,South Africa,Australia,Test,Australia,bat,South Africa
+351679,"Brisbane Cricket Ground, Woolloongabba",Australia,New Zealand,Test,New Zealand,field,Australia
+351680,Adelaide Oval,Australia,New Zealand,Test,New Zealand,bat,Australia
+351681,Western Australia Cricket Association Ground,Australia,South Africa,Test,Australia,bat,South Africa
+351682,Melbourne Cricket Ground,Australia,South Africa,Test,Australia,bat,South Africa
+351683,Sydney Cricket Ground,Australia,South Africa,Test,Australia,bat,Australia
+352661,"Sabina Park, Kingston",West Indies,England,Test,England,bat,West Indies
+352662,"Sir Vivian Richards Stadium, North Sound",West Indies,England,Test,West Indies,field,Unknown
+352663,"Kensington Oval, Bridgetown",West Indies,England,Test,England,bat,Unknown
+352664,"Queen's Park Oval, Port of Spain",West Indies,England,Test,England,bat,Unknown
+361050,"MA Chidambaram Stadium, Chepauk",India,England,Test,England,bat,India
+361051,"Punjab Cricket Association Stadium, Mohali",India,England,Test,India,bat,Unknown
+361759,Shere Bangla National Stadium,Bangladesh,New Zealand,Test,Bangladesh,field,Unknown
+366628,Seddon Park,New Zealand,India,Test,India,field,India
+366629,Basin Reserve,New Zealand,India,Test,New Zealand,field,Unknown
+378751,Chittagong Divisional Stadium,Bangladesh,Sri Lanka,Test,Sri Lanka,bat,Sri Lanka
+380712,Lord's,England,West Indies,Test,West Indies,field,England
+380713,Riverside Ground,England,West Indies,Test,England,bat,England
+383288,"County Ground, New Road, Worcester",Australia,England,Test,Australia,bat,Unknown
+386496,McLean Park,New Zealand,India,Test,New Zealand,bat,Unknown
+387570,SuperSport Park,South Africa,England,Test,England,field,Unknown
+387571,Kingsmead,South Africa,England,Test,South Africa,bat,England
+387572,Newlands,South Africa,England,Test,England,field,Unknown
+387573,New Wanderers Stadium,South Africa,England,Test,England,bat,South Africa
+388993,National Stadium,Pakistan,Sri Lanka,Test,Sri Lanka,bat,Unknown
+388994,Gaddafi Stadium,Pakistan,Sri Lanka,Test,Pakistan,field,Unknown
+390680,"Antigua Recreation Ground, St John's",West Indies,England,Test,West Indies,field,Unknown
+401071,"Arnos Vale Ground, Kingstown",West Indies,Bangladesh,Test,Bangladesh,bat,Bangladesh
+401072,"National Cricket Stadium, St George's",West Indies,Bangladesh,Test,Bangladesh,field,Bangladesh
+403367,Galle International Stadium,Sri Lanka,Pakistan,Test,Pakistan,field,Sri Lanka
+403368,P Sara Oval,Sri Lanka,Pakistan,Test,Pakistan,bat,Sri Lanka
+403369,Sinhalese Sports Club Ground,Sri Lanka,Pakistan,Test,Sri Lanka,field,Unknown
+403378,Galle International Stadium,Sri Lanka,New Zealand,Test,New Zealand,field,Sri Lanka
+403379,Sinhalese Sports Club Ground,Sri Lanka,New Zealand,Test,Sri Lanka,bat,Sri Lanka
+406189,"Brisbane Cricket Ground, Woolloongabba",Australia,West Indies,Test,Australia,bat,Australia
+406190,Adelaide Oval,Australia,West Indies,Test,West Indies,bat,Unknown
+406191,Western Australia Cricket Association Ground,Australia,West Indies,Test,Australia,bat,Australia
+406199,Melbourne Cricket Ground,Australia,Pakistan,Test,Australia,bat,Australia
+406200,Sydney Cricket Ground,Australia,Pakistan,Test,Australia,bat,Australia
+406201,Bellerive Oval,Australia,Pakistan,Test,Australia,bat,Australia
+423778,University Oval,New Zealand,Pakistan,Test,Pakistan,field,New Zealand
+423779,Basin Reserve,New Zealand,Pakistan,Test,New Zealand,field,Pakistan
+423780,McLean Park,New Zealand,Pakistan,Test,Pakistan,bat,Unknown
+423786,Seddon Park,New Zealand,Bangladesh,Test,Bangladesh,field,New Zealand
+423789,Basin Reserve,New Zealand,Australia,Test,Australia,bat,Australia
+423790,Seddon Park,New Zealand,Australia,Test,Australia,bat,Australia
+426394,Lord's,Australia,Pakistan,Test,Pakistan,field,Australia
+426395,Headingley,Australia,Pakistan,Test,Australia,bat,Pakistan
+426401,Lord's,England,Bangladesh,Test,Bangladesh,field,England
+426402,Old Trafford,England,Bangladesh,Test,England,bat,England
+426413,Trent Bridge,England,Pakistan,Test,England,bat,England
+426414,Edgbaston,England,Pakistan,Test,Pakistan,bat,England
+426415,Kennington Oval,England,Pakistan,Test,England,bat,Pakistan
+426416,Lord's,England,Pakistan,Test,Pakistan,field,England
+426423,Zohur Ahmed Chowdhury Stadium,Bangladesh,England,Test,Bangladesh,field,England
+426424,Shere Bangla National Stadium,Bangladesh,England,Test,Bangladesh,bat,England
+428749,"Brisbane Cricket Ground, Woolloongabba",Australia,England,Test,England,bat,Unknown
+428750,Adelaide Oval,Australia,England,Test,Australia,bat,England
+428751,Western Australia Cricket Association Ground,Australia,England,Test,England,field,Australia
+428752,Melbourne Cricket Ground,Australia,England,Test,England,field,England
+428753,Sydney Cricket Ground,Australia,England,Test,Australia,bat,England
+430881,"Sardar Patel Stadium, Motera",India,Sri Lanka,Test,India,bat,Unknown
+430882,Green Park,India,Sri Lanka,Test,India,bat,India
+430883,Brabourne Stadium,India,Sri Lanka,Test,Sri Lanka,bat,India
+434256,Zahur Ahmed Chowdhury Stadium,Bangladesh,India,Test,Bangladesh,field,India
+434257,Shere Bangla National Stadium,Bangladesh,India,Test,Bangladesh,bat,India
+439152,"Queen's Park Oval, Port of Spain",West Indies,South Africa,Test,South Africa,bat,South Africa
+439153,"Warner Park, Basseterre",West Indies,South Africa,Test,South Africa,bat,Unknown
+439154,"Kensington Oval, Bridgetown",West Indies,South Africa,Test,West Indies,bat,South Africa
+441825,"Vidarbha Cricket Association Stadium, Jamtha",India,South Africa,Test,South Africa,bat,South Africa
+441826,Eden Gardens,India,South Africa,Test,South Africa,bat,India
+456669,Galle International Stadium,Sri Lanka,India,Test,Sri Lanka,bat,Sri Lanka
+456670,Sinhalese Sports Club Ground,Sri Lanka,India,Test,Sri Lanka,bat,Unknown
+456671,P Sara Oval,Sri Lanka,India,Test,Sri Lanka,bat,India
+461571,Dubai International Cricket Stadium,Pakistan,South Africa,Test,South Africa,bat,Unknown
+461572,Sheikh Zayed Stadium,Pakistan,South Africa,Test,Pakistan,field,Unknown
+463146,SuperSport Park,South Africa,India,Test,South Africa,field,South Africa
+463147,Kingsmead,South Africa,India,Test,South Africa,field,India
+463148,Newlands,South Africa,India,Test,India,field,Unknown
+464526,"Punjab Cricket Association Stadium, Mohali",India,Australia,Test,Australia,bat,India
+464527,M Chinnaswamy Stadium,India,Australia,Test,Australia,bat,India
+464531,"Sardar Patel Stadium, Motera",India,New Zealand,Test,India,bat,Unknown
+464532,"Rajiv Gandhi International Stadium, Uppal",India,New Zealand,Test,New Zealand,bat,Unknown
+464533,"Vidarbha Cricket Association Stadium, Jamtha",India,New Zealand,Test,New Zealand,bat,India
+464987,Galle International Stadium,Sri Lanka,West Indies,Test,West Indies,bat,Unknown
+464988,R Premadasa Stadium,Sri Lanka,West Indies,Test,Sri Lanka,bat,Unknown
+464989,Pallekele International Cricket Stadium,Sri Lanka,West Indies,Test,Sri Lanka,field,Unknown
+473921,Seddon Park,New Zealand,Pakistan,Test,Pakistan,field,Pakistan
+473922,Basin Reserve,New Zealand,Pakistan,Test,New Zealand,bat,Unknown
+474463,Sophia Gardens,England,Sri Lanka,Test,Sri Lanka,bat,England
+474464,Lord's,England,Sri Lanka,Test,Sri Lanka,field,Unknown
+474465,The Rose Bowl,England,Sri Lanka,Test,England,field,Unknown
+474472,Lord's,England,India,Test,India,field,England
+474473,Trent Bridge,England,India,Test,India,field,England
+474474,Edgbaston,England,India,Test,England,field,England
+474475,Kennington Oval,England,India,Test,England,bat,England
+474625,"Bankstown Oval, Sydney",England,Australia,Test,England,bat,Australia
+489218,Providence Stadium,West Indies,Pakistan,Test,West Indies,bat,West Indies
+489219,"Warner Park, Basseterre",West Indies,Pakistan,Test,Pakistan,bat,Pakistan
+489226,"Sabina Park, Kingston",West Indies,India,Test,India,bat,India
+489227,"Kensington Oval, Bridgetown",West Indies,India,Test,West Indies,field,Unknown
+489228,"Windsor Park, Roseau",West Indies,India,Test,India,field,Unknown
+514029,Newlands,South Africa,Australia,Test,South Africa,field,South Africa
+514030,New Wanderers Stadium,South Africa,Australia,Test,South Africa,bat,Australia
+514032,SuperSport Park,South Africa,Sri Lanka,Test,South Africa,field,South Africa
+514033,Kingsmead,South Africa,Sri Lanka,Test,Sri Lanka,bat,Sri Lanka
+514034,Newlands,South Africa,Sri Lanka,Test,Sri Lanka,field,South Africa
+516212,Galle International Stadium,Sri Lanka,Australia,Test,Australia,bat,Australia
+516213,Pallekele International Cricket Stadium,Sri Lanka,Australia,Test,Sri Lanka,bat,Unknown
+516214,Sinhalese Sports Club Ground,Sri Lanka,Australia,Test,Sri Lanka,field,Unknown
+518947,"Brisbane Cricket Ground, Woolloongabba",Australia,New Zealand,Test,New Zealand,bat,Australia
+518948,Bellerive Oval,Australia,New Zealand,Test,Australia,field,New Zealand
+518950,Melbourne Cricket Ground,Australia,India,Test,Australia,bat,Australia
+518951,Sydney Cricket Ground,Australia,India,Test,India,bat,Australia
+518952,Western Australia Cricket Association Ground,Australia,India,Test,Australia,field,Australia
+518953,Adelaide Oval,Australia,India,Test,Australia,bat,Australia
+520591,McLean Park,New Zealand,Zimbabwe,Test,Zimbabwe,field,New Zealand
+520603,University Oval,New Zealand,South Africa,Test,New Zealand,field,Unknown
+520604,Seddon Park,New Zealand,South Africa,Test,South Africa,field,South Africa
+520605,Basin Reserve,New Zealand,South Africa,Test,New Zealand,field,Unknown
+521225,Galle International Stadium,Sri Lanka,England,Test,Sri Lanka,bat,Sri Lanka
+521226,P Sara Oval,Sri Lanka,England,Test,Sri Lanka,bat,England
+522245,Harare Sports Club,Zimbabwe,Bangladesh,Test,Bangladesh,field,Zimbabwe
+523731,Queens Sports Club,Zimbabwe,Pakistan,Test,Pakistan,field,Pakistan
+527017,Queens Sports Club,Zimbabwe,New Zealand,Test,New Zealand,bat,New Zealand
+530424,Sheikh Zayed Stadium,Pakistan,Sri Lanka,Test,Pakistan,field,Unknown
+530425,Dubai International Cricket Stadium,Pakistan,Sri Lanka,Test,Sri Lanka,bat,Pakistan
+530426,Sharjah Cricket Stadium,Pakistan,Sri Lanka,Test,Sri Lanka,bat,Unknown
+531628,Dubai International Cricket Stadium,England,Pakistan,Test,England,bat,Pakistan
+531629,Sheikh Zayed Stadium,England,Pakistan,Test,Pakistan,bat,Pakistan
+531630,Dubai International Cricket Stadium,England,Pakistan,Test,Pakistan,bat,Pakistan
+531986,Zahur Ahmed Chowdhury Stadium,Bangladesh,West Indies,Test,Bangladesh,bat,Unknown
+531987,Shere Bangla National Stadium,Bangladesh,West Indies,Test,West Indies,bat,West Indies
+534205,Lord's,England,West Indies,Test,England,field,England
+534206,Trent Bridge,England,West Indies,Test,West Indies,bat,England
+534207,Edgbaston,England,West Indies,Test,England,field,Unknown
+534225,Kennington Oval,England,South Africa,Test,England,bat,South Africa
+534226,Headingley,England,South Africa,Test,England,field,Unknown
+534227,Lord's,England,South Africa,Test,South Africa,bat,South Africa
+535997,Feroz Shah Kotla,India,West Indies,Test,West Indies,bat,India
+535998,Eden Gardens,India,West Indies,Test,India,bat,India
+535999,Wankhede Stadium,India,West Indies,Test,West Indies,bat,Unknown
+538072,Zahur Ahmed Chowdhury Stadium,Bangladesh,Pakistan,Test,Pakistan,field,Pakistan
+538073,Shere Bangla National Stadium,Bangladesh,Pakistan,Test,Pakistan,field,Pakistan
+540176,"Kensington Oval, Bridgetown",West Indies,Australia,Test,West Indies,bat,Australia
+540177,"Queen's Park Oval, Port of Spain",West Indies,Australia,Test,Australia,bat,Unknown
+540178,"Windsor Park, Roseau",West Indies,Australia,Test,Australia,bat,Australia
+560929,"Sir Vivian Richards Stadium, North Sound",West Indies,New Zealand,Test,New Zealand,bat,West Indies
+560930,"Sabina Park, Kingston",West Indies,New Zealand,Test,West Indies,field,West Indies
+562444,Galle International Stadium,Sri Lanka,Pakistan,Test,Sri Lanka,bat,Sri Lanka
+562445,Sinhalese Sports Club Ground,Sri Lanka,Pakistan,Test,Sri Lanka,field,Unknown
+562446,Pallekele International Cricket Stadium,Sri Lanka,Pakistan,Test,Sri Lanka,field,Unknown
+565806,"Sardar Patel Stadium, Motera",India,England,Test,India,bat,India
+565807,Wankhede Stadium,India,England,Test,India,bat,England
+565808,Eden Gardens,India,England,Test,India,bat,England
+565809,"Vidarbha Cricket Association Stadium, Jamtha",India,England,Test,England,bat,Unknown
+565817,"Rajiv Gandhi International Stadium, Uppal",India,New Zealand,Test,India,bat,India
+565818,M Chinnaswamy Stadium,India,New Zealand,Test,New Zealand,bat,India
+566921,Lord's,England,New Zealand,Test,England,bat,England
+566922,Headingley,England,New Zealand,Test,England,bat,England
+566932,Trent Bridge,England,Australia,Test,England,bat,England
+566933,Lord's,England,Australia,Test,England,bat,England
+566934,Old Trafford,England,Australia,Test,Australia,bat,Unknown
+566935,Riverside Ground,England,Australia,Test,England,bat,England
+566936,Kennington Oval,England,Australia,Test,Australia,bat,Unknown
+567356,Newlands,South Africa,New Zealand,Test,New Zealand,bat,South Africa
+567357,St George's Park,South Africa,New Zealand,Test,South Africa,bat,South Africa
+567363,New Wanderers Stadium,South Africa,Pakistan,Test,South Africa,bat,South Africa
+567364,Newlands,South Africa,Pakistan,Test,South Africa,field,South Africa
+567365,SuperSport Park,South Africa,Pakistan,Test,South Africa,bat,South Africa
+569243,University Oval,New Zealand,England,Test,New Zealand,field,Unknown
+569244,Basin Reserve,New Zealand,England,Test,New Zealand,field,Unknown
+569245,Eden Park,New Zealand,England,Test,England,field,Unknown
+573007,"Brisbane Cricket Ground, Woolloongabba",Australia,South Africa,Test,South Africa,bat,Unknown
+573008,Adelaide Oval,Australia,South Africa,Test,Australia,bat,Unknown
+573009,Western Australia Cricket Association Ground,Australia,South Africa,Test,South Africa,bat,South Africa
+573011,Bellerive Oval,Australia,Sri Lanka,Test,Australia,bat,Australia
+573012,Melbourne Cricket Ground,Australia,Sri Lanka,Test,Sri Lanka,bat,Australia
+573013,Sydney Cricket Ground,Australia,Sri Lanka,Test,Australia,field,Australia
+582192,Galle International Stadium,Sri Lanka,New Zealand,Test,New Zealand,bat,Sri Lanka
+582193,P Sara Oval,Sri Lanka,New Zealand,Test,New Zealand,bat,New Zealand
+587469,Shere Bangla National Stadium,Bangladesh,West Indies,Test,West Indies,bat,West Indies
+587470,Sheikh Abu Naser Stadium,Bangladesh,West Indies,Test,Bangladesh,bat,West Indies
+592397,"Brisbane Cricket Ground, Woolloongabba",Australia,England,Test,Australia,bat,Australia
+592398,Adelaide Oval,Australia,England,Test,Australia,bat,Australia
+592399,Western Australia Cricket Association Ground,Australia,England,Test,Australia,bat,Australia
+592400,Melbourne Cricket Ground,Australia,England,Test,Australia,field,Australia
+592401,Sydney Cricket Ground,Australia,England,Test,England,field,Australia
+593722,Sir Paul Getty's Ground,England,Australia,Test,Australia,bat,Unknown
+593988,"Kensington Oval, Bridgetown",West Indies,Zimbabwe,Test,Zimbabwe,bat,West Indies
+593989,"Windsor Park, Roseau",West Indies,Zimbabwe,Test,West Indies,field,West Indies
+598812,"MA Chidambaram Stadium, Chepauk",India,Australia,Test,Australia,bat,India
+598813,"Rajiv Gandhi International Stadium, Uppal",India,Australia,Test,Australia,bat,India
+598814,"Punjab Cricket Association Stadium, Mohali",India,Australia,Test,Australia,bat,India
+598815,Feroz Shah Kotla,India,Australia,Test,Australia,bat,India
+602472,Galle International Stadium,Sri Lanka,Bangladesh,Test,Sri Lanka,bat,Unknown
+602473,R Premadasa Stadium,Sri Lanka,Bangladesh,Test,Sri Lanka,field,Sri Lanka
+623576,Harare Sports Club,Zimbabwe,Bangladesh,Test,Bangladesh,field,Zimbabwe
+623577,Harare Sports Club,Zimbabwe,Bangladesh,Test,Zimbabwe,field,Bangladesh
+63963,"M Chinnaswamy Stadium, Bangalore",England,India,Test,England,bat,Unknown
+64012,Melbourne Cricket Ground,Australia,England,Test,Australia,bat,Australia
+64013,Sydney Cricket Ground,England,Australia,Test,England,bat,England
+64022,"Kingsmead, Durban",South Africa,Pakistan,Test,Pakistan,field,South Africa
+64023,"Newlands, Cape Town",South Africa,Pakistan,Test,South Africa,bat,South Africa
+64027,"Antigua Recreation Ground, St John's, Antigua",Australia,West Indies,Test,Australia,bat,West Indies
+64036,"Marrara Cricket Ground, Darwin",Bangladesh,Australia,Test,Australia,field,Australia
+64038,"Edgbaston, Birmingham",South Africa,England,Test,South Africa,bat,Unknown
+64040,"Trent Bridge, Nottingham",England,South Africa,Test,England,bat,England
+64041,"Headingley, Leeds",South Africa,England,Test,South Africa,bat,South Africa
+64042,"Kennington Oval, London",South Africa,England,Test,South Africa,bat,England
+64045,Multan Cricket Stadium,Bangladesh,Pakistan,Test,Bangladesh,bat,Pakistan
+64047,"Punjab Cricket Association Stadium, Mohali, Chandigarh",New Zealand,India,Test,New Zealand,bat,Unknown
+64048,"Western Australia Cricket Association Ground, Perth",Australia,Zimbabwe,Test,Zimbabwe,field,Australia
+64049,Sydney Cricket Ground,Zimbabwe,Australia,Test,Zimbabwe,bat,Australia
+64050,"Gaddafi Stadium, Lahore",South Africa,Pakistan,Test,South Africa,bat,Pakistan
+64051,"Iqbal Stadium, Faisalabad",South Africa,Pakistan,Test,South Africa,bat,Unknown
+64052,"Bangabandhu National Stadium, Dhaka",Bangladesh,England,Test,Bangladesh,bat,England
+64053,"MA Aziz Stadium, Chittagong",England,Bangladesh,Test,Bangladesh,field,England
+64055,"Queens Sports Club, Bulawayo",West Indies,Zimbabwe,Test,West Indies,bat,West Indies
+64058,"Sinhalese Sports Club Ground, Colombo",England,Sri Lanka,Test,England,bat,Sri Lanka
+64059,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Australia,India,Test,India,field,Unknown
+64062,Sydney Cricket Ground,India,Australia,Test,India,bat,Unknown
+64063,"New Wanderers Stadium, Johannesburg",South Africa,West Indies,Test,South Africa,bat,South Africa
+64071,Galle International Stadium,Australia,Sri Lanka,Test,Australia,bat,Australia
+64075,Eden Park,South Africa,New Zealand,Test,New Zealand,field,New Zealand
+64076,"Basin Reserve, Wellington",New Zealand,South Africa,Test,South Africa,field,South Africa
+64080,Antigua Recreation Ground,West Indies,England,Test,West Indies,bat,Unknown
+64083,Rawalpindi Cricket Stadium,Pakistan,India,Test,India,field,India
+64094,Edgbaston,England,West Indies,Test,England,bat,England
+64096,Kennington Oval,England,West Indies,Test,England,bat,England
+64100,MA Chidambaram Stadium,Australia,India,Test,Australia,bat,Unknown
+64102,Wankhede Stadium,India,Australia,Test,India,bat,India
+64104,MA Aziz Stadium,New Zealand,Bangladesh,Test,New Zealand,bat,New Zealand
+64107,Brisbane Cricket Ground,New Zealand,Australia,Test,New Zealand,bat,Australia
+64108,Adelaide Oval,Australia,New Zealand,Test,Australia,bat,Australia
+64109,Green Park,South Africa,India,Test,South Africa,bat,Unknown
+64110,Eden Gardens,South Africa,India,Test,South Africa,bat,India
+64111,Bangabandhu National Stadium,Bangladesh,India,Test,India,field,India
+64113,W.A.C.A. Ground,Australia,Pakistan,Test,Pakistan,field,Australia
+64118,Newlands,South Africa,England,Test,South Africa,bat,South Africa
+64123,Newlands,Zimbabwe,South Africa,Test,Zimbabwe,bat,South Africa
+64124,SuperSport Park,Zimbabwe,South Africa,Test,South Africa,field,South Africa
+64128,AMI Stadium,New Zealand,Australia,Test,Australia,field,Australia
+64129,Basin Reserve,Australia,New Zealand,Test,New Zealand,field,Unknown
+64134,Basin Reserve,Sri Lanka,New Zealand,Test,New Zealand,field,New Zealand
+648665,New Wanderers Stadium,South Africa,India,Test,India,bat,Unknown
+648667,Kingsmead,South Africa,India,Test,India,bat,South Africa
+648673,SuperSport Park,South Africa,Australia,Test,South Africa,field,Australia
+648675,St George's Park,South Africa,Australia,Test,South Africa,bat,South Africa
+648677,Newlands,South Africa,Australia,Test,Australia,bat,Australia
+649087,Sheikh Zayed Stadium,Pakistan,South Africa,Test,South Africa,bat,Pakistan
+649089,Dubai International Cricket Stadium,Pakistan,South Africa,Test,Pakistan,bat,South Africa
+657647,Sheikh Zayed Stadium,Pakistan,Sri Lanka,Test,Pakistan,field,Unknown
+657649,Dubai International Cricket Stadium,Pakistan,Sri Lanka,Test,Sri Lanka,field,Sri Lanka
+657651,Sharjah Cricket Stadium,Pakistan,Sri Lanka,Test,Sri Lanka,bat,Pakistan
+659555,Harare Sports Club,Zimbabwe,Pakistan,Test,Zimbabwe,field,Pakistan
+659557,Harare Sports Club,Zimbabwe,Pakistan,Test,Zimbabwe,bat,Zimbabwe
+661679,University Oval,New Zealand,West Indies,Test,West Indies,field,Unknown
+661681,Basin Reserve,New Zealand,West Indies,Test,West Indies,field,New Zealand
+661683,Seddon Park,New Zealand,West Indies,Test,New Zealand,field,New Zealand
+667651,Eden Park,New Zealand,India,Test,India,field,New Zealand
+667653,Basin Reserve,New Zealand,India,Test,India,field,Unknown
+667711,Trent Bridge,England,India,Test,India,bat,Unknown
+667713,Lord's,England,India,Test,England,field,India
+667715,The Rose Bowl,England,India,Test,England,bat,England
+667717,Old Trafford,England,India,Test,India,bat,England
+667719,Kennington Oval,England,India,Test,England,field,England
+667899,Lord's,England,Sri Lanka,Test,Sri Lanka,field,Unknown
+667901,Headingley,England,Sri Lanka,Test,England,field,Sri Lanka
+668949,Zahur Ahmed Chowdhury Stadium,Bangladesh,New Zealand,Test,New Zealand,bat,Unknown
+668951,Shere Bangla National Stadium,Bangladesh,New Zealand,Test,Bangladesh,bat,Unknown
+67517,"Bankstown Oval, Sydney",Australia,England,Test,England,field,Unknown
+676525,Eden Gardens,India,West Indies,Test,West Indies,bat,India
+676527,Wankhede Stadium,India,West Indies,Test,India,field,India
+690347,Shere Bangla National Stadium,Bangladesh,Sri Lanka,Test,Sri Lanka,field,Sri Lanka
+690349,Zahur Ahmed Chowdhury Stadium,Bangladesh,Sri Lanka,Test,Sri Lanka,bat,Unknown
+722329,SuperSport Park,South Africa,West Indies,Test,West Indies,field,South Africa
+722331,St George's Park,South Africa,West Indies,Test,West Indies,field,Unknown
+722333,Newlands,South Africa,West Indies,Test,West Indies,bat,South Africa
+722387,Sir Paul Getty's Ground,England,India,Test,India,field,India
+727927,Dubai International Cricket Stadium,Australia,Pakistan,Test,Pakistan,bat,Pakistan
+727929,Sheikh Zayed Stadium,Australia,Pakistan,Test,Pakistan,bat,Pakistan
+730089,Galle International Stadium,Sri Lanka,South Africa,Test,South Africa,bat,South Africa
+730091,Sinhalese Sports Club Ground,Sri Lanka,South Africa,Test,Sri Lanka,bat,Unknown
+730277,"Sabina Park, Kingston",West Indies,New Zealand,Test,New Zealand,bat,New Zealand
+730279,"Queen's Park Oval, Port of Spain",West Indies,New Zealand,Test,New Zealand,bat,West Indies
+730281,"Kensington Oval, Bridgetown",West Indies,New Zealand,Test,New Zealand,bat,New Zealand
+730295,"Arnos Vale Ground, Kingstown",West Indies,Bangladesh,Test,Bangladesh,field,West Indies
+730297,"Beausejour Stadium, Gros Islet",West Indies,Bangladesh,Test,Bangladesh,field,West Indies
+736435,Harare Sports Club,Zimbabwe,South Africa,Test,Zimbabwe,bat,South Africa
+742611,Sheikh Zayed Stadium,New Zealand,Pakistan,Test,Pakistan,bat,Pakistan
+742613,Dubai International Cricket Stadium,New Zealand,Pakistan,Test,New Zealand,bat,Unknown
+742615,Sharjah Cricket Stadium,New Zealand,Pakistan,Test,Pakistan,bat,New Zealand
+743939,Lord's,England,New Zealand,Test,New Zealand,field,England
+743941,Headingley,England,New Zealand,Test,England,field,New Zealand
+743963,Sophia Gardens,England,Australia,Test,England,bat,England
+743965,Lord's,England,Australia,Test,Australia,bat,Australia
+743967,Edgbaston,England,Australia,Test,Australia,bat,England
+743969,Trent Bridge,England,Australia,Test,England,field,England
+743971,Kennington Oval,England,Australia,Test,England,field,Australia
+745153,Galle International Stadium,Sri Lanka,Pakistan,Test,Pakistan,bat,Sri Lanka
+745155,Sinhalese Sports Club Ground,Sri Lanka,Pakistan,Test,Sri Lanka,bat,Sri Lanka
+749777,Hagley Oval,New Zealand,Sri Lanka,Test,Sri Lanka,field,New Zealand
+749779,Basin Reserve,New Zealand,Sri Lanka,Test,Sri Lanka,field,New Zealand
+754737,Adelaide Oval,Australia,India,Test,Australia,bat,Australia
+754739,"Brisbane Cricket Ground, Woolloongabba",Australia,India,Test,India,bat,Australia
+754741,Melbourne Cricket Ground,Australia,India,Test,Australia,bat,Unknown
+754743,Sydney Cricket Ground,Australia,India,Test,Australia,bat,Unknown
+760781,Shere Bangla National Stadium,Bangladesh,Zimbabwe,Test,Zimbabwe,bat,Bangladesh
+760783,Sheikh Abu Naser Stadium,Bangladesh,Zimbabwe,Test,Bangladesh,bat,Bangladesh
+760785,Zahur Ahmed Chowdhury Stadium,Bangladesh,Zimbabwe,Test,Bangladesh,bat,Bangladesh
+766929,"Sir Vivian Richards Stadium, North Sound",West Indies,England,Test,West Indies,field,Unknown
+766931,"National Cricket Stadium, St George's",West Indies,England,Test,England,field,England
+766933,"Kensington Oval, Bridgetown",West Indies,England,Test,England,bat,West Indies
+798375,St Lawrence Ground,England,Australia,Test,Australia,bat,Australia
+800461,Kingsmead,South Africa,England,Test,South Africa,field,England
+800463,Newlands,South Africa,England,Test,England,bat,Unknown
+800465,New Wanderers Stadium,South Africa,England,Test,South Africa,bat,England
+800467,SuperSport Park,South Africa,England,Test,South Africa,bat,South Africa
+810423,"Windsor Park, Roseau",West Indies,Australia,Test,West Indies,bat,Australia
+810425,"Sabina Park, Kingston",West Indies,Australia,Test,West Indies,field,Australia
+817213,Zahur Ahmed Chowdhury Stadium,Bangladesh,South Africa,Test,South Africa,bat,Unknown
+817215,Shere Bangla National Stadium,Bangladesh,South Africa,Test,Bangladesh,bat,Unknown
+858493,Sheikh Abu Naser Stadium,Bangladesh,Pakistan,Test,Bangladesh,bat,Unknown
+858495,Shere Bangla National Stadium,Bangladesh,Pakistan,Test,Bangladesh,field,Pakistan
+860263,Galle International Stadium,Sri Lanka,Pakistan,Test,Pakistan,field,Pakistan
+860265,P Sara Oval,Sri Lanka,Pakistan,Test,Pakistan,bat,Sri Lanka
+860267,Pallekele International Cricket Stadium,Sri Lanka,Pakistan,Test,Pakistan,field,Pakistan
+870729,Khan Shaheb Osman Ali Stadium,Bangladesh,India,Test,India,bat,Unknown
+892509,"Brisbane Cricket Ground, Woolloongabba",Australia,New Zealand,Test,Australia,bat,Australia
+892511,Western Australia Cricket Association Ground,Australia,New Zealand,Test,Australia,bat,Unknown
+892513,Adelaide Oval,Australia,New Zealand,Test,New Zealand,bat,Australia
+892515,Bellerive Oval,Australia,West Indies,Test,Australia,bat,Australia
+892517,Melbourne Cricket Ground,Australia,West Indies,Test,West Indies,field,Australia
+892519,Sydney Cricket Ground,Australia,West Indies,Test,West Indies,bat,Unknown
+895773,Galle International Stadium,Sri Lanka,India,Test,Sri Lanka,bat,Sri Lanka
+895775,P Sara Oval,Sri Lanka,India,Test,India,bat,India
+895777,Sinhalese Sports Club Ground,Sri Lanka,India,Test,Sri Lanka,field,India
+902635,Sheikh Zayed Stadium,England,Pakistan,Test,Pakistan,bat,Unknown
+902637,Dubai International Cricket Stadium,England,Pakistan,Test,Pakistan,bat,Pakistan
+902639,Sharjah Cricket Stadium,England,Pakistan,Test,Pakistan,bat,Pakistan
+903603,"Punjab Cricket Association Stadium, Mohali",India,South Africa,Test,India,bat,India
+903605,M Chinnaswamy Stadium,India,South Africa,Test,India,field,Unknown
+903607,"Vidarbha Cricket Association Stadium, Jamtha",India,South Africa,Test,India,bat,India
+903609,Feroz Shah Kotla,India,South Africa,Test,India,bat,India
+913613,Headingley,England,Sri Lanka,Test,Sri Lanka,field,England
+913615,Riverside Ground,England,Sri Lanka,Test,England,bat,England
+913617,Lord's,England,Sri Lanka,Test,England,bat,Unknown
+913641,Lord's,England,Pakistan,Test,Pakistan,bat,Pakistan
+913643,Old Trafford,England,Pakistan,Test,England,bat,England
+913645,Edgbaston,England,Pakistan,Test,Pakistan,field,England
+913647,Kennington Oval,England,Pakistan,Test,England,bat,Pakistan
+914203,University Oval,New Zealand,Sri Lanka,Test,Sri Lanka,field,New Zealand
+914205,Seddon Park,New Zealand,Sri Lanka,Test,New Zealand,field,New Zealand
+914237,Basin Reserve,New Zealand,Australia,Test,Australia,field,Australia
+914239,Hagley Oval,New Zealand,Australia,Test,Australia,field,Australia
+915773,Galle International Stadium,Sri Lanka,West Indies,Test,Sri Lanka,bat,Sri Lanka
+915775,P Sara Oval,Sri Lanka,West Indies,Test,Sri Lanka,bat,Sri Lanka
+936127,Kingsmead,South Africa,New Zealand,Test,South Africa,bat,Unknown
+936129,SuperSport Park,South Africa,New Zealand,Test,New Zealand,field,South Africa
+936147,St George's Park,South Africa,Sri Lanka,Test,South Africa,bat,South Africa
+936149,Newlands,South Africa,Sri Lanka,Test,Sri Lanka,field,South Africa
+936151,New Wanderers Stadium,South Africa,Sri Lanka,Test,South Africa,bat,South Africa
+995451,Pallekele International Cricket Stadium,Sri Lanka,Australia,Test,Sri Lanka,bat,Sri Lanka
+995453,Galle International Stadium,Sri Lanka,Australia,Test,Sri Lanka,bat,Sri Lanka
+995455,Sinhalese Sports Club Ground,Sri Lanka,Australia,Test,Sri Lanka,bat,Sri Lanka

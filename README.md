@@ -107,7 +107,7 @@ Write **20 SQL queries** to extract insights, including:
 ## How to Run This Project
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-github-username/Cricket-Match-Data-Analysis.git
+git clone https://github.com/hana3232/Cricket-Match-Data-Analysis.git
 cd Cricket-Match-Data-Analysis
 ```
 
@@ -116,32 +116,27 @@ cd Cricket-Match-Data-Analysis
 pip install -r requirements.txt
 ```
 
-### **3. Run the Selenium Scraper**
-```bash
-python scrape_cricket_data.py
-```
-
-### **4. Process JSON Data**
+### **3. Process JSON Data**
 ```bash
 python process_data.py
 ```
 
-### **5. Insert Data into SQL Database**
+### **4. Insert Data into SQL Database**
 ```bash
 python insert_data.py
 ```
 
-### **6. Run SQL Queries for Analysis**
+### **5. Run SQL Queries for Analysis**
 ```bash
 python analyze_data.py
 ```
 
-### **7. Perform EDA & Generate Visualizations**
+### **6. Perform EDA & Generate Visualizations**
 ```bash
 python eda_visualizations.py
 ```
 
-### **8. Open Power BI Dashboard**
+### **7. Open Power BI Dashboard**
 - Load the `.pbix` file in **Power BI Desktop**.
 
 ---

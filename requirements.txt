@@ -1,0 +1,11 @@
+os
+pandas
+sqlalchemy import create_engine
+import plotly.express
+seaborn
+matplotlib.pyplot
+mpl_toolkits.mplot3d
+numpy
+plotly.graph_objects
+pymysql
+sqlite3

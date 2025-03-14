@@ -162,12 +162,6 @@ python eda_visualizations.py
 
 ---
 
-## Contributors
-👤 **Hana** - Data Science Enthusiast
-📧 **(mailto:-hanarabeek2603@gmail.com)**
-
----
-
 ## License
 This project is licensed under the **MIT License**
 
